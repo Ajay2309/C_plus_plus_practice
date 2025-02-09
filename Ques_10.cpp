@@ -3,15 +3,17 @@
 #include<iostream>
 using namespace std;
 
-int main(){
-    int prime;
-    cout<<"Enter the number : ";
-    cin>>prime;
-    if(prime%2==1){
-        cout<<prime<<" is a Prime Number";
-    }
-    else{
-        cout<<prime<<" is not a Prime Number";
-    }
+// This is not the correct way to solve this question.
+
+// int main(){
+//     int prime;
+//     cout<<"Enter the number : ";
+//     cin>>prime;
+//     if(prime%2==1){
+//         cout<<prime<<" is a Prime Number";
+//     }
+//     else{
+//         cout<<prime<<" is not a Prime Number";
+//     }
     return 0;
 }
