@@ -1,13 +1,16 @@
 // Write a Program to Make a Simple Calculator.
 
 #include<iostream>
+
 using namespace std;
 
 int main(){
     char calculation;
     int num1, num2;
+    
     cout<<"Enter any two numbers "<<endl;
     cin>>num1>> num2;
+    
     char a,s,m,d;
     cout<<"Enter the operation"<<endl;
     cout<<"'a' for addition"<<endl;
