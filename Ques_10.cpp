@@ -4,6 +4,7 @@
 using namespace std;
 
 // This is not the correct way to solve this question.
+// will solve this problem soon
 
 // int main(){
 //     int prime;
