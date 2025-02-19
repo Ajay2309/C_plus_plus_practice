@@ -17,6 +17,5 @@ int main(){
     cout<<"After Swaping"<<endl;
     cout<<"The value of a is "<<a<< " and the value of b is "<<b<<endl;
 
-
     return 0;
 }
